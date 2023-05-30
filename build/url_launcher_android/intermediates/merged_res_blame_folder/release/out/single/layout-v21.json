@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/url_launcher_android/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/url_launcher_android/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/url_launcher_android/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/url_launcher_android/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Sat Feb 25 20:33:21 GMT 2023
+base.0=/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

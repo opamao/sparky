@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/webview_flutter_android/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/webview_flutter_android/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/webview_flutter_android/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/webview_flutter_android/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/webview_flutter_android/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/webview_flutter_android/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/layout/notification_action.xml"
+    }
+]

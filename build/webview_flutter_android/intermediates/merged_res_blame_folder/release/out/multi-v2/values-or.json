@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/webview_flutter_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/theodoreyapi/Documents/projetpanelys/sparkyy/build/webview_flutter_android/intermediates/merged_res/release/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/theodoreyapi/.gradle/caches/transforms-3/1afda34f0907ea926f1fde0873b8a516/transformed/core-1.6.0/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
